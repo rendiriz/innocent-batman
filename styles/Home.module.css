@@ -13,11 +13,12 @@
 }
 
 .title {
+  font-family: 'Anton';
   margin: 0;
   line-height: 1.15;
-  font-size: 4rem;
-}
-
-.title {
+  font-size: 5rem;
   text-align: center;
+  background-clip: text;
+  color: transparent;
+  background-image: radial-gradient(133.33% 350.15% at 60.89% -5.21%, #F70022 0%, #77060D 30%, #000 65%)
 }
